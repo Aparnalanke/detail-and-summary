@@ -1,0 +1,27 @@
+body{
+    background-color:blanchedalmond;
+    margin: 0px;
+    padding: 0px;
+
+}
+div{
+    color:black;
+    background-color:darkgray;
+    font-family: calibri;
+    font-size: 20px;;
+    padding: 20px;
+    margin: 10px;
+}
+details{
+
+    background-color: darkgreen;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: algerian;
+    width: 350px;
+    display:inline-block;
+    margin: 30px;
+    box-shadow: gray 10px 10px 10px;
+    padding: 20px;
+    text-align: center;
+}
